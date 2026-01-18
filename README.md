@@ -1,16 +1,26 @@
-# portal_eskul
+Gunakan deskripsi berikut untuk repository GitHub Anda (bisa di bagian **Description** atau sebagai isi `README.md`):
 
-A new Flutter project.
+---
 
-## Getting Started
+**Portal Eskul – Aplikasi Mobile Flutter**
 
-This project is a starting point for a Flutter application.
+Portal Eskul adalah aplikasi mobile berbasis Flutter yang terintegrasi dengan Firebase untuk membantu siswa menjelajahi dan bergabung dengan kegiatan ekstrakurikuler di sekolah.
+Aplikasi ini menyediakan fitur autentikasi pengguna, daftar eskul secara real-time, detail kegiatan, pendaftaran eskul, serta halaman profil siswa yang menampilkan eskul yang diikuti beserta jadwal sebagai pengingat.
 
-A few resources to get you started if this is your first Flutter project:
+Fitur utama:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Login, Register, dan Reset Password (Firebase Authentication)
+* Menampilkan daftar ekstrakurikuler dari Firebase Firestore
+* Pencarian eskul secara real-time
+* Detail eskul (deskripsi & jadwal)
+* Join / Leave eskul
+* Profil siswa dengan daftar eskul dan jadwal
+* UI modern dan responsif
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Teknologi:
+
+* Flutter
+* Firebase Authentication
+* Cloud Firestore
+
+Proyek ini dibuat sebagai tugas mata kuliah **Mobile II** dan bertujuan untuk menerapkan konsep pengembangan aplikasi mobile, integrasi backend, serta perancangan UI/UX.
