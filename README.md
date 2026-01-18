@@ -1,7 +1,3 @@
-Gunakan deskripsi berikut untuk repository GitHub Anda (bisa di bagian **Description** atau sebagai isi `README.md`):
-
----
-
 **Portal Eskul – Aplikasi Mobile Flutter**
 
 Portal Eskul adalah aplikasi mobile berbasis Flutter yang terintegrasi dengan Firebase untuk membantu siswa menjelajahi dan bergabung dengan kegiatan ekstrakurikuler di sekolah.
