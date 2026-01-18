@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410036514251",
+    "project_id": "if23b-d45a7",
+    "storage_bucket": "if23b-d45a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410036514251:android:cd50a1a3f81cc244251a4e",
+        "android_client_info": {
+          "package_name": "com.example.portal_eskul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyFUt2fa9H0FlspnYsQVoAQRSjfcBAYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410036514251:android:15c10e55a9c63795251a4e",
+        "android_client_info": {
+          "package_name": "com.example.project_riverpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyFUt2fa9H0FlspnYsQVoAQRSjfcBAYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
